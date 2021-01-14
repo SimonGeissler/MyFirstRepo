@@ -1,1 +1,2 @@
 Go on GitHub.
+A new line comming directly from GitHub.
